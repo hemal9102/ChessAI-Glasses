@@ -1,0 +1,64 @@
+
+
+## Steps for Extracting  Coordinates of Squares
+
+Board-Square-Extraction.ipynb
+
+1) Read Image 
+
+2) Convert Image to Gray Scale
+
+3) Apply Gaussian Blur Filter       
+
+4) Apply OTSU Threshold   
+
+5) Apply  Canny Edge Detection    
+ 
+6) Apply Dilation      
+
+7) Apply  Hough Lines    
+
+8) Apply Dilation  
+
+9) Find and Filter Contours  
+
+10) Sort Coordinates
+
+11) Fill undetected Squares
+
+12) Validate Squares
+
+13) Write Coordinates to CSV
+
+14 ) Test CVS image
+
+
+----------------------------------------
+
+Piece-Extraction.ipynb
+
+15) Detect Pieces  
+
+16) Extract detected Pieces Coordinates 
+
+17 ) Map extracted coordinates with board coordinates(step 13)
+
+18 ) Create String that represents game
+
+29 ) Convert string to Classic CHESS Format 
+
+21 ) Display Result     
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+

@@ -1,0 +1,26 @@
+# Core Computer Vision and Image Processing
+opencv-python
+numpy==1.26.4
+
+# YOLO and Object Detection
+ultralytics==8.3.9
+torch==2.2.0
+torchvision
+
+# Data Processing and Analysis
+pandas
+matplotlib
+
+# Chess Board and Game Logic
+chess
+rlPyCairo
+
+# Image Processing and File Handling
+Pillow
+
+# SVG and Graphics Processing
+svglib
+reportlab
+
+# Additional Utilities
+tqdm

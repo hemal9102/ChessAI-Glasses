@@ -1,0 +1,28 @@
+# Core Computer Vision and Image Processing
+opencv-python
+numpy==1.26.
+
+# YOLO 
+ultralytics
+
+# Data Processing and Analysis
+pandas
+matplotlib
+
+# Chess Board and Game Logic
+chess
+
+# Image Processing and File Handling
+Pillow
+
+# SVG and Graphics Processing
+svglib
+reportlab
+
+# Additional Utilities
+tqdm
+rlPyCairo
+
+# YOLO and Object Detection (GPU/CUDA Version)
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cu128
+
